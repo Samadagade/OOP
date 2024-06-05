@@ -1,0 +1,29 @@
+
+Java Modifiers : 
+
+Modifiers are specific keywords present in Java using which we can make changes to the characteristics of a variable, method, or class and limit its scope. 
+Java programming language has a rich set of Modifiers.
+Access modifiers : 
+The access modifiers in Java specifies the accessibility or scope of a field, method, constructor, or class. 
+We can change the access level of fields, constructors, methods, and class by applying the access modifier on it.
+There are 4 type of access modifiers :
+public : <globla level modifier>if the class is public and member is public then it is availble everywhere if only memeber is public there is no use i.e. other class or other package
+private : <class level modifier>
+default : <package level modifier>
+protected
+
+https://www.javatpoint.com/access-modifiers
+
+Non-Access modifiers : make change to the characteristic of an variable
+Non-access modifiers provide information about the characteristics of a class, method, or variable to the JVM. Seven types of Non-Access modifiers are present in Java. 
+They are –
+
+static
+final
+abstract
+synchronized
+volatile
+transient
+native
+
+https://www.geeksforgeeks.org/non-access-modifiers-in-java/
